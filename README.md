@@ -1,37 +1,29 @@
 # Ajude a fazer a SETEC maior e melhor
-
 A SETEC é organizada por alunos da Fatec Sorocaba e pela comunidade, e você pode nos ajudar!
 
-Para tanto, basta entrar em contato pelo endereço [setecfatecso@gmail.com](mailto:setecfatecso@gmail.com) ou abrir uma issue nesse repo.
+Para tanto, basta entrar em contato por meio de uma das seguintes formas:
+- escrevendo para [setecfatecso@gmail.com](mailto:setecfatecso@gmail.com)  
+- abrindo uma issue nesse repo  
+- falando pessoalmente com algum [membro da organização](https://github.com/orgs/FatecSorocaba/people) na Fatec  
 
-### Colaboradores
+Há algumas formas de contribuir. Aqui estão elas:
 
-Para organizar a Semana da Tecnologia da Fatec Sorocaba (SETEC) precisamos de:
+### 1. Fazendo parte da organização
+Nós temos um longo roadmap de tarefas a serem realizadas e toda ajuda é bem-vinda. Se você tem interesse em ajudar, basta escrever para [setecfatecso@gmail.com](mailto:setecfatecso@gmail.com)
 
-- Palestrantes e professores voluntários;
-- Empresas apoiadoras para ajudar com brindes e coffeebreak;
-- Divulgar nas redes sociais, faculdades e comunidades;
+### 2. Sendo palestrante ou instrutor de um mini-curso
+Você pode submeter sua proposta diretamente no [SpeakerFight do evento](#), [preencher o formulário de palestrantes](#) ou simplesmente escrever para [setecfatecso@gmail.com](mailto:setecfatecso@gmail.com)
 
-Não será pedido nada que você não queira fazer. Todo o trabalho será voluntário, portanto não há nenhuma forma de dinheiro envolvido.
-Se você pode nos ajudar envie um email!
+### 3. Dando sugestões
+Adoraríamos receber seu feedback. Caso você possua alguma sugestão ou tenha algum pedidos, por favor, escreva para [setecfatecso@gmail.com](mailto:setecfatecso@gmail.com).
 
-### Palestrantes
+### 4. Patrocinando a SETEC
+Queremos conectar empresas inscriveis a pessoas incríveis. O público da SETEC é, no mínimo, interessado e talentoso. Por isso, sua empresa é muito bem-vinda. Além disso, saiba que o logo da empresa será listado:
+- na seção Apoio [do site do evento](#)
+- [no slide de agradecimentos em **todas as palestras e cursos**](#);
 
-Caso queira palestrar envie-nos um email com o assunto: "Gostaria de Palestrar!"
-Enviaremos nossa proposta e uma forma de mantermos contato !
+#### Disponibilizando o Coffe break
+Teremos coffe break em todos os dias e períodos. Portanto, qualquer quantia financeira é bem-vinda. Caso prefira, também há possibilidade do próprio representante da empresa levar o coffe em determinado dia e horário previamente definido em contato com a direção.
 
-### Sugestões
-
-Caso você possua uma sugestão para nós sobre qualquer coisa, inclusive pedidos, por favor envie-nos um email.
-
-### Empresas
-
-Se você é uma empresa e gostaria de apoiar o evento, entre em contato conosco. Seu logo será exibido em nosso HotSite e na divulgação.
-
-Precisamos: Coffeebreaks e Brindes.
-
-Para o Coffeebreak será utilizado um horario na grade para networking e coffee, e este pode ser patrocinado por sua empresa!
-
-Precisamos de brindes! Canetas, camisetas, stickers, vale tudo!
-
-Queremos conectar as empresas, as pessoas e a comunidade! Um novo talento pode ser descoberto e sua empresa pode estar lá!
+#### Disponibilizando brindes para sorteio
+Em meio às atividades da SETEC, haverá sorteio de brindes. Sua empresa pode ajudar-nos disponibilizando camisetas, canetas, stickers, livros e afins! :-)
