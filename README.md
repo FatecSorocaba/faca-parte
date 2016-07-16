@@ -2,7 +2,7 @@
 
 A SETEC é organizada por alunos da Fatec Sorocaba e pela comunidade, e você pode nos ajudar!
 
-Email:  setecfatecso@gmail.com
+Para tanto, basta entrar em contato pelo endereço [setecfatecso@gmail.com](mailto:setecfatecso@gmail.com) ou abrir uma issue nesse repo.
 
 ### Colaboradores
 
