@@ -20,9 +20,15 @@ Adoraríamos receber seu feedback. Caso você possua alguma sugestão ou tenha a
 
 ### Patrocine a SETEC
 Queremos conectar empresas inscríveis a pessoas incríveis. O público da SETEC é, no mínimo, interessado e talentoso. Por isso, sua empresa é muito bem-vinda. Além disso, saiba que o logo da empresa será listado:
+
 - na seção Apoio [do site do evento](#);
 - [no slide de agradecimentos em **todas as palestras e cursos**](#);
 - em quaisquer outros meios de divulgação online (facebook/twitter/youtube) do evento, que pretendemos documentar em vídeos, fotos e textos.
 
-#### Disponibilizando brindes para sorteio
+#### Disponibilize o Coffe break
+Teremos coffe break em todos os dias e períodos. Portanto, qualquer ajuda financeira é bem-vinda (apenas para o Coffe).
+
+Também há possibilidade do próprio representante da empresa levar o coffe em determinado dia e horário previamente definido em contato com a direção.
+
+#### Disponibilize brindes para sorteio
 Em meio às atividades da SETEC, haverá sorteio de brindes. Sua empresa pode ajudar-nos disponibilizando camisetas, canetas, stickers, livros e afins! :-)
