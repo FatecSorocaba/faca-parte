@@ -3,20 +3,20 @@
 A Semana da Tecnologia é organizada por alunos da Fatec Sorocaba e pela comunidade, e você pode nos ajudar!
 
 Para isso, entre em contato por meio de uma das seguintes formas:
-- Escreva para [setec@gmail.com](mailto:setec@gmail.com);
+- Escreva para [setecfatecso@gmail.com](mailto:setecfatecso@gmail.com);
 - Abra uma issue nesse repo;
 - Fale pessoalmente com algum [membro da organização](https://github.com/orgs/FatecSorocaba/people) na Fatec.
 
 Há algumas formas de contribuir. Aqui estão elas:
 
 ### Faça parte da organização \o/
-Toda ajuda é bem-vinda, teremos muitas atividades e com certeza temos algo em que você poderia de ajudar! Se você tem interesse em ajudar, basta escrever para [setec@gmail.com](mailto:setec@gmail.com)
+Toda ajuda é bem-vinda, teremos muitas atividades e com certeza temos algo em que você poderia de ajudar! Se você tem interesse em ajudar, basta escrever para [setecfatecso@gmail.com](mailto:setecfatecso@gmail.com)
 
 ### Seja um palestrante ou instrutor de um mini-curso
-Você pode submeter sua proposta diretamente no [SpeakerFight do evento](#), [preencher o formulário de palestrantes](#) ou simplesmente escrever para [setec@gmail.com](mailto:setec@gmail.com)
+Você pode submeter sua proposta diretamente no [SpeakerFight do evento](#), [preencher o formulário de palestrantes](#) ou simplesmente escrever para [setecfatecso@gmail.com](mailto:setecfatecso@gmail.com)
 
 ### Dê sugestões
-Adoraríamos receber seu feedback. Caso você possua alguma sugestão ou tenha algum pedidos, por favor, escreva para [setec@gmail.com](mailto:setec@gmail.com).
+Adoraríamos receber seu feedback. Caso você possua alguma sugestão ou tenha algum pedidos, por favor, escreva para [setecfatecso@gmail.com](mailto:setecfatecso@gmail.com).
 
 ### Patrocine a Semana da Tecnologia
 Queremos conectar empresas inscríveis a pessoas incríveis. O público da Semana da Tecnologia é, no mínimo, interessado e talentoso. Por isso, sua empresa é muito bem-vinda. Além disso, saiba que o logo da empresa será listado:
@@ -25,10 +25,10 @@ Queremos conectar empresas inscríveis a pessoas incríveis. O público da Seman
 - [no slide de agradecimentos em **todas as palestras e cursos**](#);
 - em quaisquer outros meios de divulgação online (facebook/twitter/youtube) do evento, que pretendemos documentar em vídeos, fotos e textos.
 
-#### Disponibilize o Coffe break
-Teremos coffe break em todos os dias e períodos. Portanto, qualquer ajuda financeira é bem-vinda (apenas para o Coffe).
+#### Disponibilize o coffee break
+Teremos coffee break em todos os dias e períodos. Portanto, qualquer ajuda financeira é bem-vinda (apenas para o coffee).
 
-Também há possibilidade do próprio representante da empresa levar o coffe em determinado dia e horário previamente definido em contato com a direção.
+Também há possibilidade do próprio representante da empresa levar o coffee em determinado dia e horário previamente definido em contato com a direção.
 
 #### Disponibilize brindes para sorteio
 Em meio às atividades da Semana da Tecnologia, haverá sorteio de brindes. Sua empresa pode ajudar-nos disponibilizando camisetas, canetas, stickers, livros e afins! :-)
